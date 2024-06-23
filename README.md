@@ -20,17 +20,17 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository:
-   git clone https://github.com/your-username/medihub.git
+   git clone https://github.com/Ashima1503/UpdatedMediHub.git
    cd medihub
    
-2. Setup the Database:
+3. Setup the Database:
    Create a MySQL database named medihub and update the database credentials
 
-3. Build the Project:
+4. Build the Project:
    Use Maven to build the project.
 
-4.  Run the Application:
-    Access the application via http://localhost:8080/medihub.
+5.  Run the Application:
+    Access the application via http://localhost:8086/medihub.
 
 Contributing:
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
@@ -38,3 +38,22 @@ Feel free to fork this project and submit pull requests. For major changes, plea
 Acknowledgments:
 Inspired by the need for efficient medical supply management.
 Thanks to all the contributors who made this project possible.
+
+Screenshots:
+![Screenshot 2024-06-24 001014](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/1a34721f-01e3-4e04-b082-f813b48e65df)
+
+![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/3d59f02c-1d9a-479f-88d1-d7ed70ca5a39)
+
+![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/49c055d6-bc7b-4494-b4df-de77274d9905)
+
+Email Notification:
+![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/0791160c-f581-4d6a-906f-f0219f199e18)
+
+Navbars Role Based:
+![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/00018cb2-4e05-4b12-8b6f-8743c2ee2533)
+
+User:
+![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/a10dd261-5d85-46b3-a3c7-34360c4c7e7a)
+
+Admin:
+![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/90b6b937-6c6c-4383-8374-23d33eda4173)
