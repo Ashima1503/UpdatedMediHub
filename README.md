@@ -53,7 +53,7 @@ Navbars Role Based:
 ![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/00018cb2-4e05-4b12-8b6f-8743c2ee2533)
 
 User:
-![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/a10dd261-5d85-46b3-a3c7-34360c4c7e7a)
+![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/984fb6c7-bba2-4e36-9f14-4e734444008f)
 
 Admin:
 ![image](https://github.com/Ashima1503/UpdatedMediHub/assets/78199579/90b6b937-6c6c-4383-8374-23d33eda4173)
